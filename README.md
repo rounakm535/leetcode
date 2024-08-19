@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0650-2-keys-keyboard](https://github.com/rounakm535/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/rounakm535/leetcode/tree/master/0870-magic-squares-in-grid) |
 ## Matrix
 |  |
@@ -97,5 +98,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0650-2-keys-keyboard](https://github.com/rounakm535/leetcode/tree/master/0650-2-keys-keyboard) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/rounakm535/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 <!---LeetCode Topics End-->
