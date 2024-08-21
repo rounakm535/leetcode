@@ -99,5 +99,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0650-2-keys-keyboard](https://github.com/rounakm535/leetcode/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/rounakm535/leetcode/tree/master/0664-strange-printer) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/rounakm535/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+## String
+|  |
+| ------- |
+| [0664-strange-printer](https://github.com/rounakm535/leetcode/tree/master/0664-strange-printer) |
 <!---LeetCode Topics End-->
