@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/rounakm535/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/rounakm535/leetcode/tree/master/0040-combination-sum-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/rounakm535/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rounakm535/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/rounakm535/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rounakm535/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rounakm535/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
