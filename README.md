@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/rounakm535/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/rounakm535/leetcode/tree/master/0040-combination-sum-ii) |
 | [0179-largest-number](https://github.com/rounakm535/leetcode/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/rounakm535/leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/rounakm535/leetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/rounakm535/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rounakm535/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rounakm535/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/rounakm535/leetcode/tree/master/0268-missing-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rounakm535/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rounakm535/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rounakm535/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/rounakm535/leetcode/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/rounakm535/leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/rounakm535/leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rounakm535/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rounakm535/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rounakm535/leetcode/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/rounakm535/leetcode/tree/master/0567-permutation-in-string) |
 | [0870-magic-squares-in-grid](https://github.com/rounakm535/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/rounakm535/leetcode/tree/master/0906-walking-robot-simulation) |
@@ -66,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/rounakm535/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0268-missing-number](https://github.com/rounakm535/leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/rounakm535/leetcode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rounakm535/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/rounakm535/leetcode/tree/master/0650-2-keys-keyboard) |
@@ -172,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rounakm535/leetcode/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/rounakm535/leetcode/tree/master/0476-number-complement) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/rounakm535/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rounakm535/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
