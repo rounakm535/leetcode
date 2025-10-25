@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/rounakm535/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/rounakm535/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/rounakm535/leetcode/tree/master/0870-magic-squares-in-grid) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/rounakm535/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2155-find-missing-observations](https://github.com/rounakm535/leetcode/tree/master/2155-find-missing-observations) |
 ## Matrix
 |  |
